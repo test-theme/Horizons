@@ -1,0 +1,6 @@
+name: Horizons
+description: Horizons template for Jekyll
+gems: [jekyll-paginate]
+paginate: 10
+
+baseurl: '/Horizons'
